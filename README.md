@@ -11,8 +11,21 @@
 - Profile views: ![Profile views](https://komarev.com/ghpvc/?username=ktanay01)
 
 
-### Languages and Tools:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktanay01&layout=compact)](https://github.com/ktanay01/github-readme-stats)
-
 ### GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ktanay01&show_icons=true&count_private=true)
+
+### Languages and Tools:
+
+* C
+* C++
+* Express
+* Git
+* HTML5
+* JavaScript
+* MongoDB
+* Node.js
+* Python
+* React
+* Bootstrap
+* jQuery
+
