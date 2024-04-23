@@ -16,16 +16,10 @@
 
 ### Languages and Tools:
 
-* C
-* C++
-* Express
-* Git
-* HTML5
-* JavaScript
-* MongoDB
-* Node.js
-* Python
-* React
-* Bootstrap
-* jQuery
+* Java
+* Spring
+* Spring Boot
+* Spring Data JPA
+* MySQL
+
 
