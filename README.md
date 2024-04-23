@@ -1,4 +1,6 @@
 # Hello, I'm Kumar Tanay! 👋
+![image](https://github.com/ktanay01/ktanay.github.io/assets/67087309/3fda388c-75fd-4b2d-8229-88397604c365)
+
 
 - 🔭 I’m currently working on Java Web Application.
 - 🌱 I’m currently learning Spring Boot, Microservices.
