@@ -7,12 +7,12 @@
 <br>
 
 
-- 🔭 I am honing my Java and RestFul Webservice skills.
+- 🔭 I am honing my Java and Restful Webservice skills.
 - 🌱 I am currently learning Spring Boot/Miceroservices. 
 - 👯 I’m looking to collaborate in Java Web Application.
 - 💬 Ask me About Java Web Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white&link=mailto:kumartanay2015@gmail.com)](mailto:kumartanay2015@gmail.com) 
-- ⚡ Fun fact: I love to go to the gym
+- ❤️🤝 I love to help others
 - Profile views: ![](https://komarev.com/ghpvc/?username=ktanay01)
 
 <br>
