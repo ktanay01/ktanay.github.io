@@ -36,7 +36,7 @@
   <a href="https://www.oracle.com/database/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://maven.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/> </a>
-  <a href="https://microservices.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microservicesio/microservicesio-icon.svg" alt="Microservices" width="40" height="40"/> </a>
+ 
 </p>
 
 
